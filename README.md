@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**brkwok/brkwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Brian
 
-Here are some ideas to get you started:
+### Software engineer with a timeline as twisty as code in a spaghetti factory: bootcamp graduate, layoff detour, degree enthusiast, and unwavering code aficionado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Much like breathing, coding has become a salient part of my life**
+
+**I have a strong desire to learn everything coding related, but I'm humbled by the amount I can learn and retain**
+
+**and so I've decided to focus on mastering JavaScript, Python and Problem-solving**
+
+```javascript
+while (noSuccess) {
+  tryAgain();
+
+  if (dead) break;
+}
+```
